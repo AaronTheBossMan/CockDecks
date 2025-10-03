@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Agatha's Soul Cauldron"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arena of Glory"/>
+        <card number="1" name="Barbarian Ring"/>
+        <card number="1" name="Blood Moon"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Chrome Mox"/>
+        <card number="1" name="City of Traitors"/>
+        <card number="1" name="Conspicuous Snoop"/>
+        <card number="1" name="Deflecting Swat"/>
+        <card number="1" name="Delayed Blast Fireball"/>
+        <card number="1" name="Den of the Bugbear"/>
+        <card number="1" name="Fable of the Mirror-Breaker"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Flare of Duplication"/>
+        <card number="1" name="Fury"/>
+        <card number="1" name="Galvanic Discharge"/>
+        <card number="1" name="Gamble"/>
+        <card number="1" name="Gemstone Caverns"/>
+        <card number="1" name="Ghostfire Slice"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Goblin Chirurgeon"/>
+        <card number="1" name="Goblin Engineer"/>
+        <card number="1" name="Goblin Matron"/>
+        <card number="1" name="Goblin Recruiter"/>
+        <card number="1" name="Grafdigger's Cage"/>
+        <card number="1" name="Grenzo, Havoc Raiser"/>
+        <card number="1" name="Grim Monolith"/>
+        <card number="1" name="Horizon of Progress"/>
+        <card number="1" name="Howlsquad Heavy"/>
+        <card number="1" name="Imperial Recruiter"/>
+        <card number="1" name="Inspired Tinkering"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Kiki-Jiki, Mirror Breaker"/>
+        <card number="1" name="Krenko, Mob Boss"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Lightning Bolt"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Liquimetal Torque"/>
+        <card number="1" name="Lotus Petal"/>
+        <card number="1" name="Magus of the Moon"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="March of Reckless Joy"/>
+        <card number="1" name="Marvin, Murderous Mimic"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mishra's Command"/>
+        <card number="1" name="Moria Marauder"/>
+        <card number="15" name="Mountain"/>
+        <card number="1" name="Mox Diamond"/>
+        <card number="1" name="Mox Opal"/>
+        <card number="1" name="Party Thrasher"/>
+        <card number="1" name="Phyrexian Altar"/>
+        <card number="1" name="Pinnacle Monk"/>
+        <card number="1" name="Pyroblast"/>
+        <card number="1" name="Pyrokinesis"/>
+        <card number="1" name="Ragavan, Nimble Pilferer"/>
+        <card number="1" name="Reckless Handling"/>
+        <card number="1" name="Reckless Impulse"/>
+        <card number="1" name="Red Elemental Blast"/>
+        <card number="1" name="Ruby Medallion"/>
+        <card number="1" name="Sandstone Needle"/>
+        <card number="1" name="Shatterskull Smashing"/>
+        <card number="1" name="Siege-Gang Commander"/>
+        <card number="1" name="Siege-Gang Lieutenant"/>
+        <card number="1" name="Simian Spirit Guide"/>
+        <card number="1" name="Skirk Prospector"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Sokenzan, Crucible of Defiance"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sparksmith"/>
+        <card number="1" name="Sting, the Glinting Dagger"/>
+        <card number="1" name="Sundering Eruption"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="The One Ring"/>
+        <card number="1" name="Thornbite Staff"/>
+        <card number="1" name="Torch Courier"/>
+        <card number="1" name="Underworld Breach"/>
+        <card number="1" name="Untimely Malfunction"/>
+        <card number="1" name="Urza's Saga"/>
+        <card number="1" name="Valakut Awakening"/>
+        <card number="1" name="Volcanic Spite"/>
+        <card number="1" name="Weathered Runestone"/>
+        <card number="1" name="Wrenn's Resolve"/>
+    </zone>
+</cockatrice_deck>

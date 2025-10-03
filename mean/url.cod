@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aggravated Assault"/>
+        <card number="1" name="Ancestral Mask"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Angelic Destiny"/>
+        <card number="1" name="Argothian Enchantress"/>
+        <card number="1" name="Armadillo Cloak"/>
+        <card number="1" name="Asha's Favor"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Battle Mastery"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Bear Umbra"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="City of Solitude"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Contested Cliffs"/>
+        <card number="1" name="Daybreak Coronet"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Gaddock Teeg"/>
+        <card number="1" name="Grand Abolisher"/>
+        <card number="1" name="Grove of the Burnwillows"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Gryff's Boon"/>
+        <card number="1" name="Heliod's Pilgrim"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Joraga Treespeaker"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Kor Spiritdancer"/>
+        <card number="1" name="Living Wish"/>
+        <card number="1" name="Loyal Retainers"/>
+        <card number="1" name="Madcap Skills"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Messenger's Speed"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Okina, Temple to the Grandfathers"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Pentad Prism"/>
+        <card number="4" name="Plains"/>
+        <card number="1" name="Plateau"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Replenish"/>
+        <card number="1" name="Retether"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Runes of the Deus"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Seize the Day"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Shield of the Oversoul"/>
+        <card number="1" name="Shielded by Faith"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Song of the Dryads"/>
+        <card number="1" name="Spirit Mantle"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Sterling Grove"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Sunhome, Fortress of the Legion"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Sword of Feast and Famine"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Taiga"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Temur Battle Rage"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Trace of Abundance"/>
+        <card number="1" name="Umbra Mystic"/>
+        <card number="1" name="Unflinching Courage"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="1" name="Uril, the Miststalker"/>
+        <card number="1" name="Vow of Wildness"/>
+        <card number="1" name="Wild Growth"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Wooded Bastion"/>
+        <card number="1" name="Wooded Foothills"/>
+    </zone>
+</cockatrice_deck>
