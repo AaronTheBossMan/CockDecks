@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Benefactor's Draught"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commercial District"/>
+        <card number="1" name="Cragcrown Pathway"/>
+        <card number="1" name="Crime Novelist"/>
+        <card number="1" name="Decimate"/>
+        <card number="1" name="Defiler of Vigor"/>
+        <card number="1" name="Demand Answers"/>
+        <card number="1" name="Descent into Avernus"/>
+        <card number="1" name="Doubling Season"/>
+        <card number="1" name="Duskshell Crawler"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Fangren Marauder"/>
+        <card number="1" name="Ferocious Tigorilla"/>
+        <card number="1" name="Fomori Vault"/>
+        <card number="11" name="Forest"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Goblin Welder"/>
+        <card number="1" name="Gorilla Berserkers"/>
+        <card number="1" name="Gorilla Shaman"/>
+        <card number="1" name="Grunn, the Lonely King"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Inspiring Call"/>
+        <card number="1" name="Invigorating Hot Spring"/>
+        <card number="1" name="Jolene, the Plunder Queen"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Kird Ape"/>
+        <card number="1" name="Kird Chieftain"/>
+        <card number="1" name="Kodama of the West Tree"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Kogla and Yidaro"/>
+        <card number="1" name="Kogla, the Titan Ape"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Liquimetal Coating"/>
+        <card number="1" name="Liquimetal Torque"/>
+        <card number="1" name="Manglehorn"/>
+        <card number="1" name="Maskwood Nexus"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="7" name="Mountain"/>
+        <card number="1" name="Mycosynth Lattice"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Primitive Justice"/>
+        <card number="1" name="Quakebringer"/>
+        <card number="1" name="Ragavan, Nimble Pilferer"/>
+        <card number="1" name="Rampaging Yao Guai"/>
+        <card number="1" name="Red Sun's Twilight"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Roaming Throne"/>
+        <card number="1" name="Rockfall Vale"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Scrounging Bandar"/>
+        <card number="1" name="Season of Gathering"/>
+        <card number="1" name="Silkguard"/>
+        <card number="1" name="Silverback Elder"/>
+        <card number="1" name="Simian Simulacrum"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Sword of Truth and Justice"/>
+        <card number="1" name="Tempting Contract"/>
+        <card number="1" name="The Mycosynth Gardens"/>
+        <card number="1" name="The Ozolith"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Throne of Geth"/>
+        <card number="1" name="Tree Monkey"/>
+        <card number="1" name="Treetop Village"/>
+        <card number="1" name="Uktabi Orangutan"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Viridian Revel"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Wily Bandar"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Yavimaya Steelcrusher"/>
+        <card number="1" name="Kibo, Uktabi Prince"/>
+    </zone>
+</cockatrice_deck>

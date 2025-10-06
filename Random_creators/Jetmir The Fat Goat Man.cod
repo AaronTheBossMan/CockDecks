@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Adeline, Resplendent Cathar"/>
+        <card number="1" name="Ainok Strike Leader"/>
+        <card number="1" name="Ajani, Nacatl Pariah"/>
+        <card number="1" name="Anim Pakal, Thousandth Moon"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Artifact Mutation"/>
+        <card number="1" name="Aura Mutation"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Avalanche of Sector 7"/>
+        <card number="1" name="Aven Interrupter"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Basri Ket"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Bloom Tender"/>
+        <card number="1" name="Boromir, Warden of the Tower"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Chittering Dispatcher"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Collector Ouphe"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Dalkovan Packbeasts"/>
+        <card number="1" name="Dauntless Dismantler"/>
+        <card number="1" name="Deafening Silence"/>
+        <card number="1" name="Delighted Halfling"/>
+        <card number="1" name="Devilish Valet"/>
+        <card number="1" name="Drannith Magistrate"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="1" name="Eladamri, Korvecdal"/>
+        <card number="1" name="Eladamri's Call"/>
+        <card number="1" name="Eldritch Evolution"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Endurance"/>
+        <card number="1" name="Enduring Vitality"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Exalted Sunborn"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Faeburrow Elder"/>
+        <card number="1" name="Fallaji Wayfarer"/>
+        <card number="1" name="Fanatic of Rhonas"/>
+        <card number="1" name="Finale of Devastation"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Frenzied Baloth"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Gaea's Cradle"/>
+        <card number="1" name="Gemstone Caverns"/>
+        <card number="1" name="Gogo, Mysterious Mime"/>
+        <card number="1" name="Grand Abolisher"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Horizon Canopy"/>
+        <card number="1" name="Indulge // Excess"/>
+        <card number="1" name="Invasion of Ikoria"/>
+        <card number="1" name="Linvala, Keeper of Silence"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Magebane Lizard"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Nature's Rhythm"/>
+        <card number="1" name="Ocelot Pride"/>
+        <card number="1" name="Ouroboroid"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Plateau"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Ragavan, Nimble Pilferer"/>
+        <card number="1" name="Ranger-Captain of Eos"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Scurry of Squirrels"/>
+        <card number="1" name="Selvala, Heart of the Wilds"/>
+        <card number="1" name="Serra Ascendant"/>
+        <card number="1" name="Shelinda, Yevon Acolyte"/>
+        <card number="1" name="Sokenzan, Crucible of Defiance"/>
+        <card number="1" name="Song of Totentanz"/>
+        <card number="1" name="Stadium Headliner"/>
+        <card number="1" name="Sunbaked Canyon"/>
+        <card number="1" name="Sylvan Safekeeper"/>
+        <card number="1" name="Taiga"/>
+        <card number="1" name="Tarnished Citadel"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="The Jolly Balloon Man"/>
+        <card number="1" name="Thran Quarry"/>
+        <card number="1" name="Tifa, Martial Artist"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Vincent, Vengeful Atoner"/>
+        <card number="1" name="Voice of Victory"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="1" name="Watchful Radstag"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Winota, Joiner of Forces"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Jetmir, Nexus of Revels"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Najeela, the Blade-Blossom"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Chrome Mox"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Dolmen Gate"/>
+        <card number="1" name="Eldrazi Monument"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Phyrexian Altar"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Archetype of Aggression"/>
+        <card number="1" name="Blood-Chin Rager"/>
+        <card number="1" name="Bloom Tender"/>
+        <card number="1" name="Bramblewood Paragon"/>
+        <card number="1" name="Brighthearth Banneret"/>
+        <card number="1" name="Brutal Hordechief"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Combat Celebrant"/>
+        <card number="1" name="Decorated Champion"/>
+        <card number="1" name="Ezuri, Claw of Progress"/>
+        <card number="1" name="Garna, the Bloodflame"/>
+        <card number="1" name="Grand Warlord Radha"/>
+        <card number="1" name="Herald of Dromoka"/>
+        <card number="1" name="Iroas, God of Victory"/>
+        <card number="1" name="Kargan Warleader"/>
+        <card number="1" name="Khenra Charioteer"/>
+        <card number="1" name="Kraul Harpooner"/>
+        <card number="1" name="Lovisa Coldeyes"/>
+        <card number="1" name="Marisi, Breaker of the Coil"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Mindblade Render"/>
+        <card number="1" name="Mirri, Weatherlight Duelist"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Ogre Battledriver"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Radha, Heart of Keld"/>
+        <card number="1" name="Radha, Heir to Keld"/>
+        <card number="1" name="Rubblebelt Raiders"/>
+        <card number="1" name="Ruric Thar, the Unbowed"/>
+        <card number="1" name="Rushblade Commander"/>
+        <card number="1" name="Shanna, Sisay's Legacy"/>
+        <card number="1" name="Stonebrow, Krosan Hero"/>
+        <card number="1" name="Stonehoof Chieftain"/>
+        <card number="1" name="Surrak Dragonclaw"/>
+        <card number="1" name="Thrasher Brute"/>
+        <card number="1" name="Winota, Joiner of Forces"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Golgari Charm"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Ready // Willing"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Wrap in Vigor"/>
+        <card number="1" name="Bayou"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Cascading Cataracts"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Gaea's Cradle"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Plateau"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Savage Lands"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Scrubland"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Taiga"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Volcanic Island"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Triumph of the Hordes"/>
+    </zone>
+</cockatrice_deck>

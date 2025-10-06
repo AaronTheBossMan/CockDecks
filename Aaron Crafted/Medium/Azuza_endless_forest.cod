@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Azusa, Lost but Seeking"/>
+        <card number="1" name="Amulet of Vigor"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Crucible of Worlds"/>
+        <card number="1" name="Expedition Map"/>
+        <card number="1" name="Horn of Greed"/>
+        <card number="1" name="Seer's Sundial"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Thaumatic Compass"/>
+        <card number="1" name="Zuran Orb"/>
+        <card number="1" name="Ashaya, Soul of the Wild"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Baloth Woodcrasher"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Dryad Arbor"/>
+        <card number="1" name="Elvish Reclaimer"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Grazing Gladehart"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Nissa, Vastwood Seer"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Oran-Rief Hydra"/>
+        <card number="1" name="Primordial Hydra"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Ramunap Excavator"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Sylvan Safekeeper"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Tireless Tracker"/>
+        <card number="1" name="Titania, Protector of Argoth"/>
+        <card number="1" name="Turntimber Sower"/>
+        <card number="1" name="Ulvenwald Hydra"/>
+        <card number="1" name="Vigor"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="World Shaper"/>
+        <card number="1" name="Worldspine Wurm"/>
+        <card number="1" name="Yavimaya Elder"/>
+        <card number="1" name="Aid from the Cowl"/>
+        <card number="1" name="Call of the Wild"/>
+        <card number="1" name="Khalni Heart Expedition"/>
+        <card number="1" name="Retreat to Kazandu"/>
+        <card number="1" name="The Mending of Dominaria"/>
+        <card number="1" name="Zendikar's Roil"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Realms Uncharted"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Bazaar of Baghdad"/>
+        <card number="1" name="Dark Depths"/>
+        <card number="1" name="Deserted Temple"/>
+        <card number="1" name="Diamond Valley"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Gaea's Cradle"/>
+        <card number="1" name="Ghost Town"/>
+        <card number="1" name="Haunted Fengraf"/>
+        <card number="1" name="Khalni Garden"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Petrified Field"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="12" name="Snow-Covered Forest"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Thespian's Stage"/>
+        <card number="1" name="Tranquil Thicket"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Vesuva"/>
+        <card number="1" name="Wasteland"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Yavimaya Hollow"/>
+        <card number="1" name="Nissa, Vital Force"/>
+        <card number="1" name="Boundless Realms"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Harvest Season"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Life from the Loam"/>
+        <card number="1" name="Primal Surge"/>
+        <card number="1" name="Scapeshift"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Splendid Reclamation"/>
+        <card number="1" name="Sylvan Awakening"/>
+    </zone>
+</cockatrice_deck>
